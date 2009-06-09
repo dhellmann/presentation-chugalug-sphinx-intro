@@ -14,6 +14,11 @@ docutils_
 Chris Perkins' presentation from PyCon 2009
     Need a link
 
+`This Presentation <http://bitbucket.org/dhellmann/pyatl-sphinx-intro/>`_
+    The Sphinx project for this presentation is available on BitBucket_.
+
 .. _Sphinx: http://sphinx.pocoo.org/
 
 .. _docutils: http://docutils.sourceforge.net/
+
+.. _BitBucket: http://bitbucket.org/
