@@ -2,6 +2,9 @@
 Footnotes
 #########
 
+.. index::
+    single: reStructuredText
+
 - Manually numbered [1]_. (``[1]_``)
 - Automatically numbered [#]_. (``[#]_``)
 - Labeled [#label]_ (``[#label]_``)

@@ -2,6 +2,9 @@
 Incorporate docstrings
 ######################
 
+.. index::
+    pair: source; code
+
 .. module:: example
     :synopsis: Simple bit of code to illustrate Sphinx features.
 

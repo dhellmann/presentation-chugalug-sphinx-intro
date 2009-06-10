@@ -14,7 +14,7 @@ ALLSPHINXOPTS   = -d build/doctrees $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) source
 .PHONY: help clean html dirhtml pickle json htmlhelp qthelp latex changes linkcheck doctest
 
 help:
-	@echo "Please use \`make <target>' where <target> is one of"
+	@echo "Please use 'make <target>' where <target> is one of"
 	@echo "  html      to make standalone HTML files"
 	@echo "  dirhtml   to make HTML files named index.html in directories"
 	@echo "  pickle    to make pickle files"
@@ -25,6 +25,7 @@ help:
 	@echo "  changes   to make an overview of all changed/added/deprecated items"
 	@echo "  linkcheck to check all external links for integrity"
 	@echo "  doctest   to run all doctests embedded in the documentation (if enabled)"
+	@echo "  pdf       to run latex then pdf builds"
 
 clean:
 	-rm -rf build/*
@@ -68,8 +69,11 @@ latex:
 	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS) build/latex
 	@echo
 	@echo "Build finished; the LaTeX files are in build/latex."
-	@echo "Run \`make all-pdf' or \`make all-ps' in that directory to" \
+	@echo "Run 'make all-pdf' or 'make all-ps' in that directory to" \
 	      "run these through (pdf)latex."
+
+pdf: latex
+	(cd build/latex; make all-pdf)
 
 changes:
 	$(SPHINXBUILD) -b changes $(ALLSPHINXOPTS) build/changes
