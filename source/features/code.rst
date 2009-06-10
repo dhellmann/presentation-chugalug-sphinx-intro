@@ -6,6 +6,7 @@ Special Handling for Source Code
     pair: source; code
 
 .. toctree::
+    :maxdepth: 1
 
     pygments
     docstrings
