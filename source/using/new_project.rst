@@ -2,9 +2,8 @@
 Getting Started
 ###############
 
-Starting a brand new project is as simple as running the quickstart script::
+Starting a brand new project is as simple as running the interactive quickstart script::
 
-    $ sphinx-quickstart
     $ sphinx-quickstart 
     Welcome to the Sphinx quickstart utility.
 

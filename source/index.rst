@@ -17,7 +17,7 @@ Contents:
    
    features/index
    installation
-   getting_started
+   using/index
    resources
 
 
