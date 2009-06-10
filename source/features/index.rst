@@ -8,5 +8,5 @@ Features
     reStructuredText
     output_formats
     footnotes
-    code
     auto_index
+    code

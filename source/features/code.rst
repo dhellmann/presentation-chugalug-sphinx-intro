@@ -10,3 +10,4 @@ Special Handling for Source Code
 
     pygments
     docstrings
+    module_index
