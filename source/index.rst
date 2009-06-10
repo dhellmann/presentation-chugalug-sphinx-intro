@@ -8,14 +8,14 @@ PyATL Sphinx Introduction
 
 Sphinx_ is a documentation preparation tool that converts reStructuredText input files into several different output formats like HTML and PDF.  
 
-This guide was created with Sphinx.
+`This guide <http://www.doughellmann.com/projects/pyatl-sphinx-intro/>`_ was created with Sphinx.
 
 Contents:
 
 .. toctree::
    :maxdepth: 1
    
-   features
+   features/index
    installation
    getting_started
    further_reading
@@ -25,6 +25,7 @@ Indices and tables
 ==================
 
 * :ref:`genindex`
+* :ref:`modindex`
 * :ref:`search`
 
 .. _Sphinx: http://sphinx.pocoo.org/
