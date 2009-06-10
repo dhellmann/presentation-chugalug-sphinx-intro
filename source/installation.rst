@@ -2,13 +2,13 @@
 Installation
 ############
 
-To install sphinx inside of a virtualenv, you would do something like::
+Use `pip <http://pip.openplans.org/>`_ or `easy_install <http://peak.telecommunity.com/DevCenter/EasyInstall>`_ to install sphinx inside of a virtualenv::
 
     $ mkvirtualenv pyatlsphinx
     $ pip install Sphinx
 
-Using easy_install works, too.  The dependencies installed for you include:
+The dependencies installed for you include:
 
-- docutils
-- Jinja2
-- Pygments
+- `docutils <http://docutils.sourceforge.net/>`_
+- `Jinja2 <http://jinja.pocoo.org/>`_
+- `Pygments <http://pygments.org/>`_

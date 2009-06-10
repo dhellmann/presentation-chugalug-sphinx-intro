@@ -18,7 +18,7 @@ Contents:
    features/index
    installation
    getting_started
-   further_reading
+   resources
 
 
 Indices and tables

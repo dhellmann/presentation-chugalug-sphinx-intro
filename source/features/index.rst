@@ -7,6 +7,7 @@ Features
     
     reStructuredText
     output_formats
+    footnotes
     code
 
 - Footnotes
