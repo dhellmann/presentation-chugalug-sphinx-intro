@@ -10,6 +10,7 @@ Footnotes
 - Labeled [#label]_ (``[#label]_``)
 - Symbols [*]_ and [*]_ (``[*]``)
 - Citations [PyMOTW]_ (``[PyMOTW]_``)
+- Hyperlink-References_
 
 .. [1] This is a manually numbered footnote.
 
@@ -22,3 +23,5 @@ Footnotes
 .. [*] This footnote has a different symbol.
 
 .. [PyMOTW] This is a citation.
+
+.. _Hyperlink-References: http://www.doughellmann.com/
