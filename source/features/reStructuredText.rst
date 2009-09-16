@@ -6,5 +6,14 @@ Input is reStructuredText
     single: reStructuredText
 
 - Simple text markup
-- Uses semantic and stylistic tags
+    - Stylistic tags
+        - **bold**
+        - *italics*
+        - lists
+        - headings
+        - tables
+    - Semantic tags
+        - document metadata (author, synopsis, etc.)
+        - references
+        - code objects (modules, classes, functions)
 - Extensible with Python

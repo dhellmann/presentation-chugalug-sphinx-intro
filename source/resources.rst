@@ -17,8 +17,8 @@ docutils_
 `Using Sphinx and Doctests to provide Robust Documentation <http://us.pycon.org/2009/conference/schedule/event/90/>`_
     Chris Perkins' presentation from PyCon 2009
 
-`The source for this presentation <http://www.doughellmann.com/projects/pyatl-sphinx-intro/>`_
-    This presentation is available on my website in HTML form.  The source is hosted on  BitBucket_ (http://bitbucket.org/dhellmann/pyatl-sphinx-intro/).
+`The source for this presentation <http://www.doughellmann.com/projects/chugalug-sphinx-intro/>`_
+    This presentation is available on my website in HTML form.  The source is hosted on  BitBucket_ (http://bitbucket.org/dhellmann/chugalug-sphinx-intro/).
 
 .. _Sphinx: http://sphinx.pocoo.org/
 
