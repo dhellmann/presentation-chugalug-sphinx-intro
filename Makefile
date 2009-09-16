@@ -91,5 +91,6 @@ doctest:
 	@echo "Testing of doctests in the sources finished, look at the " \
 	      "results in build/doctest/output.txt."
 
-installwebsite: html
+installwebsite: html pdf
 	RSYNC_RSH=/usr/bin/ssh rsync  --archive --delete --verbose build/html/ www.doughellmann.com:/var/www/doughellmann/DocumentRoot/docs/chugalug-sphinx-intro
+	RSYNC_RSH=/usr/bin/ssh rsync  --archive --verbose build/latex/*.pdf www.doughellmann.com:/var/www/doughellmann/DocumentRoot/docs/chugalug-sphinx-intro/

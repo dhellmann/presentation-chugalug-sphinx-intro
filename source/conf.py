@@ -159,7 +159,7 @@ html_use_modindex = True
 #html_file_suffix = ''
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'PyATLSphinxExampledoc'
+htmlhelp_basename = 'ChugalugSphinxExampledoc'
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -173,7 +173,7 @@ htmlhelp_basename = 'PyATLSphinxExampledoc'
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'PyATLSphinxExample.tex', u'PyATL Sphinx Example Documentation',
+  ('index', 'ChugalugSphinxExample.tex', u'CHUGALUG Sphinx Example',
    u'Doug Hellmann', 'manual', True),
 ]
 

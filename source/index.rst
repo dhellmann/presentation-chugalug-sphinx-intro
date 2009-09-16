@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-CHUGALUG Sphinx Introduction
-============================
+CHUGALUG Sphinx Example
+=======================
 
 Sphinx_ is a *documentation preparation tool* that converts reStructuredText input files into several different output formats like HTML and PDF.  
 
@@ -21,13 +21,5 @@ Contents:
    using/index
    users
    resources
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
 .. _Sphinx: http://sphinx.pocoo.org/

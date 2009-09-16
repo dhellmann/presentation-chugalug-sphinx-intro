@@ -7,3 +7,4 @@ Module Index
     single: index; source code
 
 - Modules automatically indexed
+- :ref:`modindex`
