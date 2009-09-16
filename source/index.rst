@@ -16,6 +16,7 @@ Contents:
    :maxdepth: 1
    
    features/index
+   benefits
    installation
    using/index
    users

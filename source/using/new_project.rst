@@ -2,6 +2,9 @@
 Getting Started
 ###############
 
+.. index::
+    single: installation
+
 Starting a brand new project is as simple as running the interactive quickstart script::
 
     $ sphinx-quickstart 

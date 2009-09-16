@@ -3,7 +3,7 @@ Footnotes
 #########
 
 .. index::
-    single: reStructuredText
+    single: reStructuredText; footnotes
 
 - Manually numbered [1]_. (``[1]_``)
 - Automatically numbered [#]_. (``[#]_``)
