@@ -38,7 +38,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'PyATL Sphinx Example'
+project = u'CHUGALUG Sphinx Example'
 copyright = u'2009, Doug Hellmann'
 
 # The version info for the project you're documenting, acts as replacement for

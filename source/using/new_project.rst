@@ -24,7 +24,7 @@ Starting a brand new project is as simple as running the interactive quickstart 
     > Name prefix for templates and static dir [_]: 
 
     The project name will occur in several places in the built documentation.
-    > Project name: PyATL Sphinx Example
+    > Project name: CHUGALUG Sphinx Example
     > Author name(s): Doug Hellmann
 
     Sphinx has the notion of a "version" and a "release" for the

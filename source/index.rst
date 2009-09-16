@@ -18,6 +18,7 @@ Contents:
    features/index
    installation
    using/index
+   users
    resources
 
 
