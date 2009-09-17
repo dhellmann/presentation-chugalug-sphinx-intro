@@ -11,3 +11,4 @@ Features
     auto_index
     code
     extensible
+    support
