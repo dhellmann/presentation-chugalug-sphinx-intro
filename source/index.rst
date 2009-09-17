@@ -8,15 +8,15 @@ CHUGALUG Sphinx Example
 
 Sphinx_ is a *documentation preparation tool* that converts reStructuredText input files into several different output formats like HTML and PDF.  
 
-`This guide <http://www.doughellmann.com/projects/chugalug-sphinx-intro/>`_ was created with Sphinx.
+`This presentation <http://www.doughellmann.com/projects/chugalug-sphinx-intro/>`_ was created with Sphinx.
 
 Contents:
 
 .. toctree::
    :maxdepth: 1
    
-   features/index
    benefits
+   features/index
    installation
    using/index
    users

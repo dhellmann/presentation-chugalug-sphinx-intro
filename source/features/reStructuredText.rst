@@ -10,10 +10,13 @@ Input is reStructuredText
    - **bold**
    - *italics*
    - lists
-   - multiple heading levels
    - tables
+- Document structure
+   - toctree
+   - include
+   - references
+   - multiple heading levels
+   - images
 - Semantic tags
    - document metadata (author, synopsis, etc.)
-   - references
    - code objects (modules, classes, functions)
-- Extensible with Python

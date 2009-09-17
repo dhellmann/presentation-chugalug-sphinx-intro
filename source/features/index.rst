@@ -10,3 +10,4 @@ Features
     footnotes
     auto_index
     code
+    extensible
