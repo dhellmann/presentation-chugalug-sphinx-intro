@@ -25,6 +25,12 @@ Document Structure
    True   True   True
    =====  =====  =======
 
+.. only:: latex
+
+   Fancy: Not yet supported for LaTeX
+
+.. only:: html
+
    Fancy:
 
    +------------------------+------------+----------+----------+
