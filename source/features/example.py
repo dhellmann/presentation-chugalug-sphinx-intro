@@ -11,8 +11,8 @@ class MyClass(object):
     This module illustrates three features of Sphinx:
     
     1. Pygments integration.
-    2. Auto-doc features.
-    3. Use of rst in docstrings.
+    2. Auto-doc *features*.
+    3. Use of rst in **docstrings**.
     """
     
     def __init__(self, arg1):

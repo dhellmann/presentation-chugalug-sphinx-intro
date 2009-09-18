@@ -5,7 +5,7 @@ Features
 .. toctree::
     :maxdepth: 1
     
-    reStructuredText
+    reStructuredText/index
     output_formats
     footnotes
     auto_index

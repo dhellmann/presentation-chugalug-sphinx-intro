@@ -17,7 +17,6 @@ Contents:
    
    benefits
    features/index
-   installation
    using/index
    users
    resources

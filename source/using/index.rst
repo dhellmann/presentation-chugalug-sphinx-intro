@@ -7,4 +7,5 @@ Using Sphinx
 
     installation
     new_project
-    building
+    html_output
+    pdf_output
